@@ -1,6 +1,6 @@
 # Estudo de PHP - Operadores condicionais e de comparação
 
-Projeto pra aprender os operadores lógicos e de comparação no PHP.
+Estudando operadores lógicos e de comparação no PHP.
 
 ## Conceitos estudados
 
