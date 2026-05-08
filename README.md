@@ -15,4 +15,4 @@ Estudando operadores lógicos e de comparação no PHP.
 - `index.php` — página principal com exemplos
 
 ---
-[Ver online](https://mirandaromario09.github.io/2-)
+[Ver online](https://mirandaromario09.github.io/estudo-php-if-else-operadores-logicos-e-condionais)
